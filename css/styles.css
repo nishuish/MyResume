@@ -94,3 +94,8 @@ hr{
   border-top-width: 8px;
   border-color: #e3dfc8;
 }
+.profile{
+  width:50%;
+  margin-left:auto;
+  margin-right: auto;
+}
